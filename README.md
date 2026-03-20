@@ -12,9 +12,8 @@ This project is part of the coursework **SDSC2001 Python for Data Science** at C
 - [Author](#author)
 
 ## Dataset
-The dataset used in this project is a publicly available diabetes dataset (e.g., from Kaggle or UCI). It contains features such as glucose level, blood pressure, BMI, age, and the target variable indicating diabetes outcome.
+The dataset used in this project is a publicly available diabetes dataset. It contains features such as glucose level, blood pressure, BMI, age, and the target variable indicating diabetes outcome.
 
-*Note: If you use a specific dataset, replace this description with the actual source and attributes.*
 
 ## Technologies Used
 - Python 3.x
