@@ -25,10 +25,9 @@ The dataset used in this project is a publicly available diabetes dataset. It co
 ## Project Structure
 SDSC2001_Project_Diabetes/
 
-- diabetes_analysis.ipynb # Jupyter Notebook with full analysis
-- data/ # Folder containing the dataset (if included)
+- Project.ipynb # Jupyter Notebook with full analysis
+- Diabetes.csv # Folder containing the dataset
 - README.md # This file
--  requirements.txt # Python dependencies (optional)
 
 ## Key Steps
 1. **Data Loading & Cleaning**  
