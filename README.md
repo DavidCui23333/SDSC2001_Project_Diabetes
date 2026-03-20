@@ -54,8 +54,7 @@ SDSC2001_Project_Diabetes/
    - The model achieved an accuracy of around 90% on the test set.
    - Key features (e.g., glucose, BMI) showed strong correlation with diabetes outcome.
    - The analysis provides a baseline for further improvements using more complex algorithms.
-
-*Note: Replace XX with your actual accuracy.*
+   - 
 
 ## How to Run
 1. Clone this repository:
@@ -66,4 +65,5 @@ Project.ipynb
 
 ## Author
    - David, Cui Tsz Wai
+     
 This project was completed as part of the SDSC2001 course at City University of Hong Kong.
