@@ -1,6 +1,6 @@
 # Diabetes Data Analysis
 
-This project is part of the coursework **SDSC2001 Introduction to Data Science** at City University of Hong Kong. It performs exploratory data analysis (EDA) and builds a simple classification model to predict diabetes risk based on health indicators.
+This project is part of the coursework **SDSC2001 Python for Data Science** at City University of Hong Kong. It performs exploratory data analysis (EDA) and builds a simple classification model to predict diabetes risk based on health indicators.
 
 ## Table of Contents
 - [Dataset](#dataset)
